@@ -1,0 +1,19 @@
+.heading {
+    font-size: 3em;
+    font-weight: 700;
+}
+.qhote-btn {
+    width: 5em;
+    height: 2.5em;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    background-color: orange;
+    color: #fff;
+    font-size: medium;
+    font-weight: 600;  
+}
+.quotation {
+    font-size: 2em;
+    color: bisque;
+}
